@@ -1,0 +1,85 @@
+artist_name,track_name,energy,danceability,instrumentalness,valence,loudness,acousticness
+Jack Harlow,Lovin On Me,0.558,0.943,2.19e-06,0.606,-4.911,0.0026
+Taylor Swift,Cruel Summer,0.702,0.552,2.06e-05,0.564,-5.707,0.117
+Tate McRae,Greedy,0.733,0.75,0.0,0.844,-3.18,0.256
+Doja Cat,Paint The Town Red,0.538,0.868,3.34e-06,0.732,-8.603,0.269
+SZA,Snooze,0.551,0.559,0.0,0.392,-7.231,0.141
+Tyla,Water,0.722,0.673,0.0,0.519,-3.495,0.0856
+Morgan Wallen,Last Night,0.675,0.492,0.0,0.478,-5.456,0.467
+Luke Combs,Fast Car,0.603,0.712,0.0,0.67,-5.52,0.186
+Doja Cat,Agora Hills,0.674,0.75,8.91e-05,0.392,-6.128,0.228
+Morgan Wallen,Thinkin' Bout Me,0.757,0.656,0.0,0.429,-5.775,0.492
+Teddy Swims,Lose Control,0.604,0.561,1.9e-05,0.242,-4.409,0.199
+Taylor Swift,Is It Over Now? (Taylor's Version) [From The Vault],0.658,0.596,0.0,0.176,-7.346,0.0504
+Paul Russell,Lil Boo Thang,0.699,0.85,0.0,0.915,-3.292,0.152
+Miley Cyrus,Flowers,0.691,0.706,6.99e-05,0.632,-4.775,0.0584
+Nicki Minaj,FTCU,0.458,0.928,0.000446,0.242,-6.751,0.0175
+Chris Stapleton,White Horse,0.77,0.353,0.598,0.224,-11.066,0.0016
+Noah Kahan,Stick Season,0.488,0.662,0.0,0.817,-6.894,0.782
+Billie Eilish,What Was I Made For?,0.0911,0.444,1.05e-06,0.142,-17.665,0.959
+Olivia Rodrigo,Vampire,0.532,0.511,0.0,0.35,-5.745,0.177
+Jelly Roll,Need A Favor,0.771,0.502,1.82e-05,0.557,-4.246,0.0123
+Dua Lipa,Dance The Night,0.845,0.671,0.0,0.775,-4.93,0.0207
+Gunna,Fukumean,0.622,0.847,0.0,0.22,-6.747,0.119
+Nate Smith,World On Fire,0.887,0.461,0.0,0.411,-4.871,0.000219
+Dua Lipa,Houdini,0.789,0.744,0.00144,0.866,-4.876,0.0036
+Jelly Roll With Lainey Wilson,Save Me,0.612,0.564,0.0,0.146,-5.018,0.382
+Miley Cyrus,Used To Be Young,0.632,0.451,0.0,0.455,-3.843,0.6
+SZA,Kill Bill,0.735,0.644,0.144,0.418,-5.747,0.0521
+"Usher, Summer Walker & 21 Savage",Good Good,0.669,0.753,0.0,0.584,-4.914,0.0378
+Warren Zeiders,Pretty Little Poison,0.557,0.518,2.46e-06,0.216,-4.839,0.0258
+Xavi,La Diabla,0.819,0.751,0.0,0.697,-4.372,0.255
+Victoria Monet,On My Mama,0.546,0.675,0.00441,0.607,-7.716,0.556
+HARDY,Truck Bed,0.77,0.662,0.0,0.769,-4.887,0.0875
+Mitski,My Love Mine All Mine,0.308,0.504,0.135,0.121,-14.958,0.868
+Dan + Shay,Save Me The Trouble,0.629,0.444,0.0,0.376,-4.435,0.00544
+Tate McRae,Exes,0.569,0.838,0.000136,0.551,-6.324,0.152
+Travis Scott,I Know ?,0.619,0.927,0.0,0.817,-4.441,0.0186
+Jessie Murph & Jelly Roll,Wild Ones,0.689,0.65,0.0,0.294,-3.543,0.0878
+Kenya Grace,Strangers,0.523,0.628,0.00274,0.416,-8.307,0.701
+Bad Bunny,Monaco,0.621,0.787,0.000402,0.13,-5.009,0.15
+Cody Johnson,The Painter,0.709,0.512,4.25e-06,0.261,-5.766,0.0415
+Olivia Rodrigo,Get Him Back!,0.846,0.546,0.0,0.74,-5.719,0.0135
+Flo Milli,Never Lose Me,0.567,0.781,0.0,0.0743,-7.857,0.0504
+Noah Kahan With Post Malone,Dial Drunk,0.613,0.667,0.0,0.681,-7.147,0.121
+Luke Combs,Where The Wild Things Are,0.731,0.708,4.47e-06,0.379,-4.872,0.0189
+Drake,You Broke My Heart,0.7,0.465,0.0,0.276,-5.163,0.203
+Fuerza Regida & Marshmello,Harley Quinn,0.741,0.815,0.0183,0.591,-6.04,0.0277
+Parker McCollum,Burn It Down,0.753,0.484,5.95e-06,0.281,-5.23,0.11
+Peso Pluma & Anitta,Bellakeo,0.88,0.72,0.06,0.463,-2.834,0.0562
+Xavi,La Victima,0.835,0.778,0.0,0.666,-3.598,0.152
+Sabrina Carpenter,Feather,0.686,0.787,0.0,0.836,-4.37,0.0893
+Lil Tecca,500lbs,0.785,0.722,0.0,0.529,-5.451,0.0942
+Karol G & Peso Pluma,Qlona,0.738,0.841,0.0,0.484,-7.455,0.52
+Kane Brown,I Can Feel It,0.866,0.529,0.00526,0.55,-5.816,0.00281
+Taylor Swift,You're Losing Me (From The Vault),0.391,0.747,0.003,0.195,-13.767,0.529
+George Birge,Mind On You,0.815,0.576,0.0,0.56,-3.999,0.142
+Olivia Rodrigo,Can't Catch Me Now,0.366,0.521,4.11e-06,0.225,-7.698,0.838
+Maluma & Carin Leon,Segun Quien,0.762,0.909,0.0,0.843,-3.974,0.434
+Grupo Frontera & Grupo Firme,El Amor de Su Vida,0.834,0.616,0.0,0.746,-3.069,0.06
+310babii,Soak City (Do It),0.409,0.836,4.92e-06,0.233,-14.189,0.258
+"The Weeknd, JENNIE & Lily Rose Depp",One Of The Girls,0.641,0.522,0.0,0.202,-6.287,0.0545
+Jung Kook,Standing Next To You,0.809,0.711,0.0,0.816,-4.389,0.0447
+Chayce Beckham,23,0.583,0.626,0.0,0.428,-7.346,0.276
+Bad Bunny & Feid,Perro Negro,0.778,0.911,2.16e-05,0.345,-2.248,0.0887
+Zach Bryan,Oklahoma Smokeshow,0.573,0.544,0.0,0.233,-5.694,0.0958
+The Red Clay Strays,Wondering Why,0.209,0.524,0.0,0.347,-12.437,0.85
+BigXthaPlug,Mmhmm,0.682,0.93,0.0,0.962,-8.799,0.028
+Rod Wave,Great Gatsby,0.555,0.67,6.36e-06,0.16,-9.12,0.0382
+Olivia Rodrigo,Bad Idea Right?,0.879,0.627,6.87e-06,0.748,-3.446,0.00193
+"Peso Pluma, Junior H & Oscar Maydon",Rompe La Dompe,0.642,0.757,0.0355,0.759,-7.966,0.607
+Drake,Virginia Beach,0.514,0.402,0.0,0.2,-7.322,0.106
+Oliver Anthony Music,Rich Men North Of Richmond,0.264,0.678,0.0,0.528,-12.384,0.753
+Noah Kahan With Hozier,Northern Attitude,0.64,0.486,7.58e-05,0.289,-8.027,0.136
+Taylor Swift,Now That We Don't Talk (Taylor's Version) [From The Vault],0.512,0.793,3.81e-05,0.0662,-9.319,0.186
+"Juice WRLD, Eminem & benny blanco",Lace It,0.597,0.773,0.0,0.305,-7.138,0.194
+Karol G,Mi Ex Tenia Razon,0.725,0.634,0.0,0.795,-4.945,0.0776
+Tate McRae,Run For The Hills,0.831,0.544,0.0,0.233,-3.578,0.543
+*NSYNC,Better Place,0.556,0.579,0.0,0.558,-6.277,0.0214
+Zach Bryan,"Burn, Burn, Burn",0.296,0.508,5e-05,0.134,-10.513,0.897
+Travis Scott,My Eyes,0.621,0.455,2.59e-06,0.28,-7.694,0.651
+Zach Bryan,Tourniquet,0.397,0.593,7.44e-06,0.32,-8.309,0.684
+Junior H,Y Lloro,0.589,0.728,7.78e-06,0.767,-7.115,0.424
+Sophie Ellis-Bextor,Murder On The Dancefloor,0.849,0.73,2.6e-05,0.887,-5.281,0.00234
+Karol G,Amargura,0.696,0.92,0.0,0.545,-3.356,0.183
+Lainey Wilson,Wildflowers And Wild Horses,0.644,0.442,1.73e-06,0.34,-5.787,0.347
